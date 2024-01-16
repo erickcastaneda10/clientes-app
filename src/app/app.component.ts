@@ -10,5 +10,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'clientes-app';
+  title = 'bienvenido a angular';
+  curso: string = 'curso spring 5 con anuglar 7';
+  profesor: string = 'Andres guzman';
 }
